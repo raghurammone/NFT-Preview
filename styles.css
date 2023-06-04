@@ -1,0 +1,97 @@
+/****************** Tag Selectors ********************/
+
+body{
+     text-align: center;
+     background-color: #021938;
+}
+
+img{
+    border-radius: 15px;
+}
+p{
+    font-size: 1.3rem;
+    color:#6b99e3;
+}
+hr{
+    width:95%;
+}
+span{
+    color : white;
+}
+
+
+
+
+
+/****************** Class Selectors *******************/
+
+
+.box{
+      background-color: #052a5b;
+      width:357px;
+      margin:0 auto;
+      border-radius: 20px;
+
+      
+}
+
+.image{
+      width:300px;
+      padding : 25px 0 25px 30px;
+      
+}
+
+.content{
+    padding:0 30px 0 30px;
+    text-align: left;
+}
+
+.head{
+    color: white;
+}
+
+.eth_image{
+    position:absolute;
+
+}
+
+.eth_content{
+    padding:0 0 0 20px;
+    width:auto;
+    color: #00FFCA;
+}
+
+.img_clock{
+    position:absolute;
+    bottom: 54px;
+    left:9px;
+    width:20px;
+}
+
+.time_content{
+    padding:0 0 0 89px;
+    color:#6b99e3;
+    
+}
+
+.time{
+    
+    position: relative;
+    left:170px;
+    padding: 0 0 30px 0;
+}
+.img_last{
+    width:10%;
+    border : 1px solid white ;
+    border-radius: 50% 50%;
+    float:left;
+}
+
+.last{
+    padding:0 0 20px 0;
+}
+
+.content_last{
+    padding:6px 0 0 50px;
+}
+
